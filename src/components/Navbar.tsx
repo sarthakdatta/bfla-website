@@ -7,7 +7,7 @@ export default function CustomMenu() {
             {/* Left Section - Brand Name */}
             <div>
                 <Link href="/">
-                <h1 className="text-2xl font-bold text-primary-foreground">Bright Futures Academy</h1>
+                <h1 className="text-2xl font-bold text-primary-foreground">Bright Futures Learning Academy</h1>
                 </Link>
             </div>
 
