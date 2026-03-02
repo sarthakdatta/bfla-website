@@ -6,12 +6,6 @@ import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 
 const founders = [
   {
-    name: "Sarthak Datta",
-    role: "Co-Founder",
-    description: "Hey there! I'm Sarthak. I have lots of experience teaching as I have volunteering and teaching nuero-diverse kids math for almost 2 years and excel academically.",
-    image: "/sarthak.png", // Replace with your image path
-  },
-  {
     name: "Rishan Kayal",
     role: "Co-Founder",
     description: "Hello! I’m Rishan and have lots of experience tutoring middle schoolers. I love math and am currently taking a senior level math class as a freshman.",
